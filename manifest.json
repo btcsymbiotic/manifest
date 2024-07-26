@@ -1,5 +1,6 @@
 {
-  "url": "https://grgr.cryptosymbiotic.com",
   "name": "GrGr",
-  "iconUrl": "https://grgr.cryptosymbiotic.com/static/images/logo.png"
+  "description": "GrGr NFT Integration",
+  "url": "https://grgr.cryptosymbiotic.com",
+  "icons": ["https://grgr.cryptosymbiotic.com/static/images/logo.png"]
 }
